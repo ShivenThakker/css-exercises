@@ -1,0 +1,23 @@
+.type1
+{
+    background-color: lightpink;
+    font-family:'Verdana','DejaVu Sans','sans-serif';  
+}
+
+#evn1
+{
+    color: blue;
+    font-size: 36px;
+}
+
+.type1.type2
+{
+    font-size: 24px;
+}
+
+#evn2
+{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
